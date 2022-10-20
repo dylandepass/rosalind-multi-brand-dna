@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dylandepass/rosalind-dna/compare/v1.0.1...v1.0.2) (2022-10-20)
+
+
+### Bug Fixes
+
+* try and group release files by type ([ea93968](https://github.com/dylandepass/rosalind-dna/commit/ea939681c1cb8a5d76214749ba5ef927cd59cde3))
+
 ## [1.0.1](https://github.com/dylandepass/rosalind-dna/compare/v1.0.0...v1.0.1) (2022-10-20)
 
 

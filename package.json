@@ -1,6 +1,6 @@
 {
   "name": "@dylandepass/rosalind-dna",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Base design tokens for the rosalind theme",
   "repository": {
     "type": "git",
