@@ -16,7 +16,7 @@ module.exports = {
         { "path": "dist/compose", "label": "Rosalind DNA for Compose" },
         { "path": "dist/css", "label": "Rosalind DNA for CSS" },
         { "path": "dist/ios", "label": "Rosalind DNA for iOS (Objective C)" },
-        { "path": "dist/*.swift", "label": "Rosalind DNA for iOS (Swift)" },
+        { "path": "dist/**/*.swift", "label": "Rosalind DNA for iOS (Swift)" },
         { "path": "dist/ios-scss", "label": "Rosalind DNA for SCSS" },
       ]
     }]
