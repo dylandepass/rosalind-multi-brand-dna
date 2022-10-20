@@ -2,20 +2,33 @@
   "name": "@dylandepass/rosalind-dna",
   "version": "0.0.1",
   "description": "Base design tokens for the rosalind theme",
-  "repository": "https://github.com/dylandepass/rosalind-dna",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylandepass/rosalind-dna"
+  },
   "main": "index.js",
   "keywords": [
     "adobe",
     "franklin",
     "design system"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+  "scripts": {    
+    "semantic-release": "semantic-release",
+    "commit": "git-cz",
     "build": "token-transformer --expandTypography=true tokens/tokens.json tokens/style-dictionary.json & style-dictionary build --config style-dictionary.config.json"
   },
   "author": "Dylan Depass <dyland@adobe.com>",
   "license": "Apache License 2.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/npm": "9.0.0",
+    "commitizen": "4.2.4",
+    "semantic-release": "19.0.2",
+    "cz-conventional-changelog": "3.3.0",
     "style-dictionary": "^3.7.1",
     "token-transformer": "0.0.27"
   }
