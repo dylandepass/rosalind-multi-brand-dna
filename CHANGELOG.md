@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dylandepass/rosalind-dna/compare/v1.0.2...v1.0.3) (2022-10-20)
+
+
+### Bug Fixes
+
+* glob ([aa18413](https://github.com/dylandepass/rosalind-dna/commit/aa18413198df750fd7c462f0bd93043bede65ee2))
+
 ## [1.0.2](https://github.com/dylandepass/rosalind-dna/compare/v1.0.1...v1.0.2) (2022-10-20)
 
 
