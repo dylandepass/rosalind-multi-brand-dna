@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/dylandepass/rosalind-dna/compare/v1.1.3...v1.1.4) (2022-10-21)
+
+
+### Bug Fixes
+
+* lower eyebrow font size ([6949b2a](https://github.com/dylandepass/rosalind-dna/commit/6949b2a4bd4bc9ecfd3e2d4c03529d350dc68aad))
+
 ## [1.1.3](https://github.com/dylandepass/rosalind-dna/compare/v1.1.2...v1.1.3) (2022-10-21)
 
 
