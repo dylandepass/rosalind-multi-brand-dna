@@ -17,3 +17,4 @@ notes.md
 out
 *.css.map
 dist
+tokens/style-dictionary.json
