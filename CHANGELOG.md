@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/dylandepass/rosalind-dna/compare/v1.1.0...v1.1.1) (2022-10-21)
+
+
+### Bug Fixes
+
+* separate token transform and build step ([ee50113](https://github.com/dylandepass/rosalind-dna/commit/ee50113b02e6e4ff37832c914c667313d5d7210b))
+
 # [1.1.0](https://github.com/dylandepass/rosalind-dna/compare/v1.0.7...v1.1.0) (2022-10-21)
 
 
