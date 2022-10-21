@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dylandepass/rosalind-dna/compare/v1.0.7...v1.1.0) (2022-10-21)
+
+
+### Features
+
+* add margin-bottom for typography ([d25a405](https://github.com/dylandepass/rosalind-dna/commit/d25a405232159533291d428fe91613b0d8fcee58))
+
 ## [1.0.7](https://github.com/dylandepass/rosalind-dna/compare/v1.0.6...v1.0.7) (2022-10-21)
 
 
