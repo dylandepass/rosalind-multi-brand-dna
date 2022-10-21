@@ -2,13 +2,14 @@
   "source": ["./tokens/style-dictionary.json"],
   "platforms": {
     "css": {
-      "transformGroup": "css",
+      "transformGroup": "web",
       "buildPath": "dist/css/",
       "prefix": "ros",
       "files": [{
         "destination": "_variables.css",
         "format": "css/variables"
-      }]
+      }],
+      "transforms": ["attribute/cti", "name/cti/kebab", "time/seconds", "content/icon", "sizes/px", "color/css"]
     },
     "scss": {
       "transformGroup": "scss",
