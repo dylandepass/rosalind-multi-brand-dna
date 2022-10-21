@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/dylandepass/rosalind-dna/compare/v1.1.1...v1.1.2) (2022-10-21)
+
+
+### Bug Fixes
+
+* banish style-dictionary.json ([8e43c13](https://github.com/dylandepass/rosalind-dna/commit/8e43c134bd0fe5e49b344d5a003abf20e7de6c85))
+
 ## [1.1.1](https://github.com/dylandepass/rosalind-dna/compare/v1.1.0...v1.1.1) (2022-10-21)
 
 
