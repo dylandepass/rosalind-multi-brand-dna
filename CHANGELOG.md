@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/dylandepass/rosalind-dna/compare/v1.0.5...v1.0.6) (2022-10-21)
+
+
+### Bug Fixes
+
+* build ([a065901](https://github.com/dylandepass/rosalind-dna/commit/a065901bc5d1f02a7cb311cdd5189f0a5d6f5fe4))
+* correct units ([3764da9](https://github.com/dylandepass/rosalind-dna/commit/3764da93f3478ffd0de30392d6f6ca02dc3fd371))
+
 ## [1.0.5](https://github.com/dylandepass/rosalind-dna/compare/v1.0.4...v1.0.5) (2022-10-20)
 
 
