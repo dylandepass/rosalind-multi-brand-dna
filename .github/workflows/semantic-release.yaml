@@ -16,6 +16,7 @@ jobs:
           node-version: '14.x'
       - run: npm install
       - run: npm test
+      - run: npm run transform
       - run: npm run build
       - run: npm run semantic-release
         env:
