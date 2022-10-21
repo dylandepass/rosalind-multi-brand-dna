@@ -126,485 +126,242 @@
   "typography": {
     "display-1": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 60,
+          "textDecoration": "",
+          "lineHeight": 72
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 60,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 72,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 96,
+          "textDecoration": "",
+          "lineHeight": 115.2
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 96,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 115.2,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "heading-1": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 40,
+          "textDecoration": "",
+          "lineHeight": 48
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 40,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 48,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 48,
+          "textDecoration": "",
+          "lineHeight": 57.6
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 48,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 57.6,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "heading-2": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 36,
+          "textDecoration": "",
+          "lineHeight": 43.2
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 36,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 43.2,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 40,
+          "textDecoration": "",
+          "lineHeight": 48
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 40,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 48,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "heading-3": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 28,
+          "textDecoration": "",
+          "lineHeight": 33.6
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 28,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 33.6,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 32,
+          "textDecoration": "",
+          "lineHeight": 38.4
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 32,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 38.4,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "heading-4": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 24,
+          "textDecoration": "",
+          "lineHeight": 28.8
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 24,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 28.8,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 26,
+          "textDecoration": "",
+          "lineHeight": 31.2
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 26,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 31.2,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "heading-5": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 20,
+          "textDecoration": "",
+          "lineHeight": 24
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 20,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 24,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 20,
+          "textDecoration": "",
+          "lineHeight": 24
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 20,
-          "type": "fontSize"
-        },
-        "textDecoration": {
-          "value": "",
-          "type": "textDecoration"
-        },
-        "lineHeight": {
-          "value": 24,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "display-2": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 50,
+          "lineHeight": 60
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 50,
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": 60,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 75,
+          "lineHeight": 90
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 75,
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": 90,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "display-3": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 42,
+          "lineHeight": 50.4
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 42,
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": 50.4,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 60,
+          "lineHeight": 72
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 60,
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": 72,
-          "type": "lineHeight"
-        }
+        "type": "typography"
       }
     },
     "body": {
-      "fontFamily": {
-        "value": "Inter",
-        "type": "fontFamily"
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Regular",
+        "fontSize": 16,
+        "lineHeight": 24
       },
-      "fontWeight": {
-        "value": "Regular",
-        "type": "fontWeight"
-      },
-      "fontSize": {
-        "value": 16,
-        "type": "fontSize"
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "lineHeight"
-      }
+      "type": "typography"
     },
     "caption": {
-      "fontFamily": {
-        "value": "Inter",
-        "type": "fontFamily"
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Inter",
+        "fontSize": 12,
+        "lineHeight": 18
       },
-      "fontWeight": {
-        "value": "Inter",
-        "type": "fontWeight"
-      },
-      "fontSize": {
-        "value": 12,
-        "type": "fontSize"
-      },
-      "lineHeight": {
-        "value": 18,
-        "type": "lineHeight"
-      }
+      "type": "typography"
     },
     "subtitle": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": 300,
+          "fontSize": 40
         },
-        "fontWeight": {
-          "value": 300,
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 40,
-          "type": "fontSize"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": 300,
+          "fontSize": 48
         },
-        "fontWeight": {
-          "value": 300,
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 48,
-          "type": "fontSize"
-        }
+        "type": "typography"
       }
     },
     "eyebrow": {
       "min": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 25,
+          "lineHeight": 30,
+          "textCase": "uppercase"
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 25,
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": 30,
-          "type": "lineHeight"
-        },
-        "textCase": {
-          "value": "uppercase",
-          "type": "textCase"
-        }
+        "type": "typography"
       },
       "max": {
-        "fontFamily": {
-          "value": "Oswald",
-          "type": "fontFamily"
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "Bold",
+          "fontSize": 30,
+          "lineHeight": 36,
+          "textCase": "uppercase"
         },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": 30,
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": 36,
-          "type": "lineHeight"
-        },
-        "textCase": {
-          "value": "uppercase",
-          "type": "textCase"
-        }
+        "type": "typography"
       }
     },
     "source-code": {
-      "fontFamily": {
-        "value": "Source Code Pro",
-        "type": "fontFamily"
+      "value": {
+        "fontFamily": "Source Code Pro",
+        "fontWeight": "Regular",
+        "lineHeight": 24,
+        "fontSize": 16
       },
-      "fontWeight": {
-        "value": "Regular",
-        "type": "fontWeight"
-      },
-      "lineHeight": {
-        "value": 24,
-        "type": "lineHeight"
-      },
-      "fontSize": {
-        "value": 16,
-        "type": "fontSize"
-      }
+      "type": "typography"
     }
   },
   "font-family": {

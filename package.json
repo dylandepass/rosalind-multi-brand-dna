@@ -15,7 +15,7 @@
   "scripts": {
     "semantic-release": "semantic-release",
     "commit": "git-cz",
-    "build": "token-transformer --expandTypography=true tokens/tokens.json tokens/style-dictionary.json & node build.js"
+    "build": "token-transformer --expandTypography=false tokens/tokens.json tokens/style-dictionary.json & node build.js"
   },
   "author": "Dylan Depass <dyland@adobe.com>",
   "license": "Apache License 2.0",
