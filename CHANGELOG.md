@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dylandepass/rosalind-dna/compare/v1.0.6...v1.0.7) (2022-10-21)
+
+
+### Bug Fixes
+
+* don't expand typography ([4bb2a41](https://github.com/dylandepass/rosalind-dna/commit/4bb2a412b31663ef0b199f63b01f2bcc503fe434))
+
 ## [1.0.6](https://github.com/dylandepass/rosalind-dna/compare/v1.0.5...v1.0.6) (2022-10-21)
 
 
