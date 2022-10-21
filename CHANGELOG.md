@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/dylandepass/rosalind-dna/compare/v1.1.4...v1.1.5) (2022-10-21)
+
+
+### Bug Fixes
+
+* rename source code type to mono ([0970ed0](https://github.com/dylandepass/rosalind-dna/commit/0970ed09f8e5e4f97b0238d0fc5bc5fdf90aaf24))
+
 ## [1.1.4](https://github.com/dylandepass/rosalind-dna/compare/v1.1.3...v1.1.4) (2022-10-21)
 
 
