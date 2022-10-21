@@ -6,7 +6,7 @@ StyleDictionary.registerTransform({
     type: 'value',
     matcher: function(prop) {
         // You can be more specific here if you only want 'em' units for font sizes    
-        return ["fontSizes", "fontSize", "lineHeights", "lineHeight", "sizing", "spacing"].includes(prop.type);
+        return ["fontSizes", "fontSize", "lineHeights", "lineHeight", "sizing", "spacing"].includes(prop.type) && !prop.name.includes('multiplier');
     },
     transformer: function(prop) {
         // You can also modify the value here if you want to convert pixels to ems
