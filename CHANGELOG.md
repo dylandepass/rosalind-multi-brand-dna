@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/dylandepass/rosalind-dna/compare/v1.1.2...v1.1.3) (2022-10-21)
+
+
+### Bug Fixes
+
+* don't add px to multilpliers ([dbac33c](https://github.com/dylandepass/rosalind-dna/commit/dbac33cb50a00f7d87bfc9de97167ad397543078))
+
 ## [1.1.2](https://github.com/dylandepass/rosalind-dna/compare/v1.1.1...v1.1.2) (2022-10-21)
 
 
