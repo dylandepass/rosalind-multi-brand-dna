@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/dylandepass/rosalind-dna/compare/v1.2.2...v1.2.3) (2022-10-23)
+
+
+### Bug Fixes
+
+* include px in borderRadius ([afa7ad7](https://github.com/dylandepass/rosalind-dna/commit/afa7ad72eead18fc20048beaad5120289d5aaae9))
+
 ## [1.2.2](https://github.com/dylandepass/rosalind-dna/compare/v1.2.1...v1.2.2) (2022-10-23)
 
 
