@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/dylandepass/rosalind-dna/compare/v1.2.3...v1.2.4) (2022-10-23)
+
+
+### Bug Fixes
+
+* add CTA button states ([58898a5](https://github.com/dylandepass/rosalind-dna/commit/58898a5f83da1245b52cdf84cbe0169be5f5f93d))
+
 ## [1.2.3](https://github.com/dylandepass/rosalind-dna/compare/v1.2.2...v1.2.3) (2022-10-23)
 
 
