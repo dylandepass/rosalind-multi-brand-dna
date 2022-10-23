@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/dylandepass/rosalind-dna/compare/v1.2.1...v1.2.2) (2022-10-23)
+
+
+### Bug Fixes
+
+* rename base to default ([2ec5321](https://github.com/dylandepass/rosalind-dna/commit/2ec53219c69ff48d92eba3b6eead3eab588dbcdd))
+
 ## [1.2.1](https://github.com/dylandepass/rosalind-dna/compare/v1.2.0...v1.2.1) (2022-10-23)
 
 
