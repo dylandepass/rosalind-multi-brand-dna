@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/dylandepass/rosalind-dna/compare/v1.2.4...v1.2.5) (2022-10-23)
+
+
+### Bug Fixes
+
+* rename selected to active ([308aea9](https://github.com/dylandepass/rosalind-dna/commit/308aea9a4b31a394818f3d072c70730dd85888f1))
+
 ## [1.2.4](https://github.com/dylandepass/rosalind-dna/compare/v1.2.3...v1.2.4) (2022-10-23)
 
 
