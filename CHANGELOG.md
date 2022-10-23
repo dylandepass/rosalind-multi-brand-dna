@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/dylandepass/rosalind-dna/compare/v1.2.0...v1.2.1) (2022-10-23)
+
+
+### Bug Fixes
+
+* large and small naming ([300aa24](https://github.com/dylandepass/rosalind-dna/commit/300aa24678561f40fe8915c1de174fdc79b038a7))
+
 # [1.2.0](https://github.com/dylandepass/rosalind-dna/compare/v1.1.5...v1.2.0) (2022-10-23)
 
 
