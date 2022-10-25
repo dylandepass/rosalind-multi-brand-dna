@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/dylandepass/rosalind-dna/compare/v1.2.5...v1.3.0) (2022-10-25)
+
+
+### Features
+
+* button states ([d113957](https://github.com/dylandepass/rosalind-dna/commit/d1139578190dc960312537e90e32180594b23e96))
+
 ## [1.2.5](https://github.com/dylandepass/rosalind-dna/compare/v1.2.4...v1.2.5) (2022-10-23)
 
 
