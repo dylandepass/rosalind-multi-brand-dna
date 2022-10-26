@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/dylandepass/rosalind-dna/compare/v1.3.0...v1.4.0) (2022-10-26)
+
+
+### Features
+
+* secondary and text button ([45c63cb](https://github.com/dylandepass/rosalind-dna/commit/45c63cbf69a850eba0d3f7b17aa999a55592bb6b))
+
 # [1.3.0](https://github.com/dylandepass/rosalind-dna/compare/v1.2.5...v1.3.0) (2022-10-25)
 
 
