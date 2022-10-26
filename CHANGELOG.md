@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/dylandepass/rosalind-dna/compare/v1.4.1...v1.4.2) (2022-10-26)
+
+
+### Bug Fixes
+
+* add size options ([5228174](https://github.com/dylandepass/rosalind-dna/commit/52281747a3fa895c9140ecbe052f10d1d7e81d97))
+
 ## [1.4.1](https://github.com/dylandepass/rosalind-dna/compare/v1.4.0...v1.4.1) (2022-10-26)
 
 
