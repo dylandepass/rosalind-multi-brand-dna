@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/dylandepass/rosalind-dna/compare/v1.4.0...v1.4.1) (2022-10-26)
+
+
+### Bug Fixes
+
+* add px to border-width ([2a8a5bf](https://github.com/dylandepass/rosalind-dna/commit/2a8a5bf4aae36d103e3dcdf0d70b6f2b13baf5f5))
+
 # [1.4.0](https://github.com/dylandepass/rosalind-dna/compare/v1.3.0...v1.4.0) (2022-10-26)
 
 
