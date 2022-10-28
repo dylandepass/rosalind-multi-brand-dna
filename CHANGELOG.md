@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/dylandepass/rosalind-dna/compare/v1.4.2...v1.5.0) (2022-10-28)
+
+
+### Features
+
+* light/dark + input field ([5d18d1c](https://github.com/dylandepass/rosalind-dna/commit/5d18d1caa627f550b480cfa7195ab95ee5cb3b77))
+
 ## [1.4.2](https://github.com/dylandepass/rosalind-dna/compare/v1.4.1...v1.4.2) (2022-10-26)
 
 
