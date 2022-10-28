@@ -1,3 +1,10 @@
+## [1.5.5](https://github.com/dylandepass/rosalind-dna/compare/v1.5.4...v1.5.5) (2022-10-28)
+
+
+### Bug Fixes
+
+* add checkbox ([deba872](https://github.com/dylandepass/rosalind-dna/commit/deba872ab90344021827f87029f6403beec7457a))
+
 ## [1.5.4](https://github.com/dylandepass/rosalind-dna/compare/v1.5.3...v1.5.4) (2022-10-28)
 
 
