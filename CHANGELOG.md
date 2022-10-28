@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/dylandepass/rosalind-dna/compare/v1.5.2...v1.5.3) (2022-10-28)
+
+
+### Bug Fixes
+
+* form input padding and colors ([d9788fe](https://github.com/dylandepass/rosalind-dna/commit/d9788fecefe2169374ec46260e10e8c914ada4e7))
+
 ## [1.5.2](https://github.com/dylandepass/rosalind-dna/compare/v1.5.1...v1.5.2) (2022-10-28)
 
 
