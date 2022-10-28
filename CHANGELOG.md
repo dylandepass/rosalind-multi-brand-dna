@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/dylandepass/rosalind-dna/compare/v1.5.0...v1.5.1) (2022-10-28)
+
+
+### Bug Fixes
+
+* input padding and active border width ([c5317b1](https://github.com/dylandepass/rosalind-dna/commit/c5317b156db8efa095cd243ac89ca343a67d594a))
+
 # [1.5.0](https://github.com/dylandepass/rosalind-dna/compare/v1.4.2...v1.5.0) (2022-10-28)
 
 
