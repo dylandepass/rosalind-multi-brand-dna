@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/dylandepass/rosalind-dna/compare/v1.5.1...v1.5.2) (2022-10-28)
+
+
+### Bug Fixes
+
+* form label and help text padding ([5e66752](https://github.com/dylandepass/rosalind-dna/commit/5e66752772c5009fc8fb21fd19ef82d7550c17b9))
+
 ## [1.5.1](https://github.com/dylandepass/rosalind-dna/compare/v1.5.0...v1.5.1) (2022-10-28)
 
 
