@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/dylandepass/rosalind-dna/compare/v1.5.3...v1.5.4) (2022-10-28)
+
+
+### Bug Fixes
+
+* input color updates ([c98a6c3](https://github.com/dylandepass/rosalind-dna/commit/c98a6c32480fc04df7eb519a9ad788860faab848))
+
 ## [1.5.3](https://github.com/dylandepass/rosalind-dna/compare/v1.5.2...v1.5.3) (2022-10-28)
 
 
