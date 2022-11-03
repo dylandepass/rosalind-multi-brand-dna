@@ -1,3 +1,10 @@
+## [1.5.6](https://github.com/dylandepass/rosalind-dna/compare/v1.5.5...v1.5.6) (2022-11-03)
+
+
+### Bug Fixes
+
+* update form styling ([439a25f](https://github.com/dylandepass/rosalind-dna/commit/439a25fe8144159e7e007db9a065943a7af99bea))
+
 ## [1.5.5](https://github.com/dylandepass/rosalind-dna/compare/v1.5.4...v1.5.5) (2022-10-28)
 
 
