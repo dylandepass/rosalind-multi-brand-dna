@@ -1,3 +1,10 @@
+## [1.5.11](https://github.com/dylandepass/rosalind-dna/compare/v1.5.10...v1.5.11) (2022-11-07)
+
+
+### Bug Fixes
+
+* add asset names ([d24e211](https://github.com/dylandepass/rosalind-dna/commit/d24e211677eacf211224cbe18b61104d20e923ab))
+
 ## [1.5.10](https://github.com/dylandepass/rosalind-dna/compare/v1.5.9...v1.5.10) (2022-11-07)
 
 
