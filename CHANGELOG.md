@@ -1,3 +1,10 @@
+## [1.5.10](https://github.com/dylandepass/rosalind-dna/compare/v1.5.9...v1.5.10) (2022-11-07)
+
+
+### Bug Fixes
+
+* rename label? ([e728021](https://github.com/dylandepass/rosalind-dna/commit/e728021307619bb665f8283d9cb2a764eced0306))
+
 ## [1.5.9](https://github.com/dylandepass/rosalind-dna/compare/v1.5.8...v1.5.9) (2022-11-07)
 
 
