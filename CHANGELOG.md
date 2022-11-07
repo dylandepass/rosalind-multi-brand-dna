@@ -1,3 +1,10 @@
+## [1.5.14](https://github.com/dylandepass/rosalind-dna/compare/v1.5.13...v1.5.14) (2022-11-07)
+
+
+### Bug Fixes
+
+* add transforms ([1526e90](https://github.com/dylandepass/rosalind-dna/commit/1526e90640497abb450b5473e9965c6473240c83))
+
 ## [1.5.13](https://github.com/dylandepass/rosalind-dna/compare/v1.5.12...v1.5.13) (2022-11-07)
 
 
