@@ -12,10 +12,10 @@ module.exports = {
     }],
     ["@semantic-release/github", {
       "assets": [
-        { "path": "dist/css/light/tokens.css", "label": "Rosalind DNA CSS (Light Theme)" },
-        { "path": "dist/css/dark/tokens.css", "label": "Rosalind DNA for CSS (Dark Theme)" },
-        { "path": "dist/scss/light/tokens.scss", "label": "Rosalind DNA for SCSS (Light Theme)" },
-        { "path": "dist/scss/dark/tokens.scss", "label": "Rosalind DNA for SCSS (Dark Theme)" },
+        { "path": "dist/css/light/tokens.css", "label": "Rosalind DNA CSS (Light Theme)", "name": "css-tokens-light" },
+        { "path": "dist/css/dark/tokens.css", "label": "Rosalind DNA for CSS (Dark Theme)", "name": "css-tokens-dark" },
+        { "path": "dist/scss/light/tokens.scss", "label": "Rosalind DNA for SCSS (Light Theme)", "name": "scss-tokens-light" },
+        { "path": "dist/scss/dark/tokens.scss", "label": "Rosalind DNA for SCSS (Dark Theme)", "name": "scss-tokens-dark" },
       ]
     }]
   ],
