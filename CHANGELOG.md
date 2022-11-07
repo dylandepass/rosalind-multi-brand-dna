@@ -1,3 +1,10 @@
+## [1.5.12](https://github.com/dylandepass/rosalind-dna/compare/v1.5.11...v1.5.12) (2022-11-07)
+
+
+### Bug Fixes
+
+* add extensions to release artifacts ([0ea586d](https://github.com/dylandepass/rosalind-dna/commit/0ea586dcab205c128c7c4d7c02e2727173b4d541))
+
 ## [1.5.11](https://github.com/dylandepass/rosalind-dna/compare/v1.5.10...v1.5.11) (2022-11-07)
 
 
