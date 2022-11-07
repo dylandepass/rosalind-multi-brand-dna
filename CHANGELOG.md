@@ -1,3 +1,10 @@
+## [1.5.13](https://github.com/dylandepass/rosalind-dna/compare/v1.5.12...v1.5.13) (2022-11-07)
+
+
+### Bug Fixes
+
+* add ros prefix ([5dac151](https://github.com/dylandepass/rosalind-dna/commit/5dac151ae08eff44d5b78d551700ab4e9f588bdb))
+
 ## [1.5.12](https://github.com/dylandepass/rosalind-dna/compare/v1.5.11...v1.5.12) (2022-11-07)
 
 
