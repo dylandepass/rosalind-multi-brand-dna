@@ -42,6 +42,7 @@ function getStyleDictionaryConfig(theme, files) {
             outputReferences: true,
           },
         }],
+        transforms: ['attribute/cti', 'name/cti/kebab', 'time/seconds', 'content/icon', 'sizes/px', 'color/css'],
       },
       scss: {
         transformGroup: 'scss',
@@ -54,6 +55,7 @@ function getStyleDictionaryConfig(theme, files) {
             outputReferences: true,
           },
         }],
+        transforms: ['attribute/cti', 'name/cti/kebab', 'time/seconds', 'content/icon', 'sizes/px', 'color/css'],
       },
     },
   };
