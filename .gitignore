@@ -17,4 +17,6 @@ notes.md
 out
 *.css.map
 dist
-tokens/style-dictionary.json
+tokens/dark-theme.json
+tokens/light-theme.json
+tokens/global.json

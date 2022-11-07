@@ -12,12 +12,10 @@ module.exports = {
     }],
     ["@semantic-release/github", {
       "assets": [
-        { "path": "dist/android", "label": "Rosalind DNA for Android" },
-        { "path": "dist/compose", "label": "Rosalind DNA for Compose" },
-        { "path": "dist/css", "label": "Rosalind DNA for CSS" },
-        { "path": "dist/ios", "label": "Rosalind DNA for iOS (Objective C)" },
-        { "path": "dist/**/*.swift", "label": "Rosalind DNA for iOS (Swift)" },
-        { "path": "dist/ios-scss", "label": "Rosalind DNA for SCSS" },
+        { "path": "dist/css/light/tokens.css", "label": "Rosalind DNA CSS - Light Theme" },
+        { "path": "dist/css/dark/tokens.css", "label": "Rosalind DNA for CSS - Dark Theme" },
+        { "path": "dist/scss/light/tokens.scss", "label": "Rosalind DNA for SCSS - Light Theme" },
+        { "path": "dist/scss/dark/tokens.scss", "label": "Rosalind DNA for SCSS - Dark Theme" },
       ]
     }]
   ],
