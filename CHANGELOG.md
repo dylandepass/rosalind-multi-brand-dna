@@ -1,3 +1,10 @@
+## [1.5.9](https://github.com/dylandepass/rosalind-dna/compare/v1.5.8...v1.5.9) (2022-11-07)
+
+
+### Bug Fixes
+
+* cleanup build, add eslint ([7c88dbc](https://github.com/dylandepass/rosalind-dna/commit/7c88dbcb7fd9c094d7d557c029c143cec99d1ca3))
+
 ## [1.5.8](https://github.com/dylandepass/rosalind-dna/compare/v1.5.7...v1.5.8) (2022-11-05)
 
 
