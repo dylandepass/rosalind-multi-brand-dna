@@ -34,6 +34,7 @@ function getStyleDictionaryConfig(theme, files) {
       css: {
         transformGroup: 'css',
         buildPath: `dist/css/${theme}/`,
+        prefix: 'ros',
         files: [{
           destination: 'tokens.css',
           format: 'css/variables',
