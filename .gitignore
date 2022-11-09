@@ -20,3 +20,4 @@ dist
 tokens/dark-theme.json
 tokens/light-theme.json
 tokens/global.json
+styles/
