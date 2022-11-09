@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/dylandepass/rosalind-dna/compare/v1.5.14...v1.6.0) (2022-11-09)
+
+
+### Features
+
+* add npx install command ([d33735b](https://github.com/dylandepass/rosalind-dna/commit/d33735b9599c1772125c7a60aee752d910ed1ea3))
+
 ## [1.5.14](https://github.com/dylandepass/rosalind-dna/compare/v1.5.13...v1.5.14) (2022-11-07)
 
 
