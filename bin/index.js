@@ -13,7 +13,6 @@
 
 const path = require('path');
 const fs = require('fs');
-const { argv } = require('yargs');
 
 const cwd = process.cwd();
 
