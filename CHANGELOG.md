@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/dylandepass/rosalind-dna/compare/v1.6.1...v1.6.2) (2022-11-09)
+
+
+### Bug Fixes
+
+* remove yargs ([e3b939f](https://github.com/dylandepass/rosalind-dna/commit/e3b939f066b3bb687a06bc94ca34c435bf817b32))
+
 ## [1.6.1](https://github.com/dylandepass/rosalind-dna/compare/v1.6.0...v1.6.1) (2022-11-09)
 
 
