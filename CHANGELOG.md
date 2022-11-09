@@ -1,3 +1,11 @@
+## [1.6.3](https://github.com/dylandepass/rosalind-dna/compare/v1.6.2...v1.6.3) (2022-11-09)
+
+
+### Bug Fixes
+
+* add npm namespace ([b837c67](https://github.com/dylandepass/rosalind-dna/commit/b837c676168049405c59584c5df8c8a3f1afb638))
+* add npm namespace ([be1e8b4](https://github.com/dylandepass/rosalind-dna/commit/be1e8b4f9d77fb2568ac948893ab445f10eb8424))
+
 ## [1.6.2](https://github.com/dylandepass/rosalind-dna/compare/v1.6.1...v1.6.2) (2022-11-09)
 
 
