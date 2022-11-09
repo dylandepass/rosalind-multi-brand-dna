@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/dylandepass/rosalind-dna/compare/v1.6.0...v1.6.1) (2022-11-09)
+
+
+### Bug Fixes
+
+* rename npx package ([31ea6c0](https://github.com/dylandepass/rosalind-dna/commit/31ea6c01acb27b197d116344ac9cb7713b5e47a6))
+
 # [1.6.0](https://github.com/dylandepass/rosalind-dna/compare/v1.5.14...v1.6.0) (2022-11-09)
 
 
