@@ -1,5 +1,5 @@
 {
-  "name": "rosalind-dna",
+  "name": "@rosalind/rosalind-dna",
   "version": "1.6.1",
   "description": "Base design tokens for the rosalind theme",
   "repository": {
