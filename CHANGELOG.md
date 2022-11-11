@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dylandepass/rosalind-dna/compare/v1.0.0...v1.0.1) (2022-11-11)
+
+
+### Bug Fixes
+
+* secondary button background color ([532914b](https://github.com/dylandepass/rosalind-dna/commit/532914bbd516398651327df8f6c80cc02bff7420))
+
 # 1.0.0 (2022-11-09)
 
 
