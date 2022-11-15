@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dylandepass/rosalind-dna/compare/v1.0.4...v1.0.5) (2022-11-15)
+
+
+### Bug Fixes
+
+* add active and inactive colors for switch toggle ([941b999](https://github.com/dylandepass/rosalind-dna/commit/941b99938c4db308dad1247a1c35bfb37d639aae))
+
 ## [1.0.4](https://github.com/dylandepass/rosalind-dna/compare/v1.0.3...v1.0.4) (2022-11-15)
 
 
