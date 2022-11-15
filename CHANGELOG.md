@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dylandepass/rosalind-dna/compare/v1.0.2...v1.0.3) (2022-11-15)
+
+
+### Bug Fixes
+
+* misspelling of foreground ([7a2a580](https://github.com/dylandepass/rosalind-dna/commit/7a2a580d28e6dacdfe840b165aae08ecf7686c0c))
+
 ## [1.0.2](https://github.com/dylandepass/rosalind-dna/compare/v1.0.1...v1.0.2) (2022-11-15)
 
 
