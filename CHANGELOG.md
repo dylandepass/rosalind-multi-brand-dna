@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dylandepass/rosalind-dna/compare/v1.0.5...v1.0.6) (2022-11-15)
+
+
+### Bug Fixes
+
+* update switch and radio tokens ([0f47e7f](https://github.com/dylandepass/rosalind-dna/commit/0f47e7f75ffcdc33fef1ec5d5e1c5563f26c3929))
+
 ## [1.0.5](https://github.com/dylandepass/rosalind-dna/compare/v1.0.4...v1.0.5) (2022-11-15)
 
 
