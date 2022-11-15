@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dylandepass/rosalind-dna/compare/v1.0.3...v1.0.4) (2022-11-15)
+
+
+### Bug Fixes
+
+* update active background/foreground color on primary button ([a29a8e3](https://github.com/dylandepass/rosalind-dna/commit/a29a8e34ef8d11e20e54db0d7a3f315ceeb3d7a4))
+
 ## [1.0.3](https://github.com/dylandepass/rosalind-dna/compare/v1.0.2...v1.0.3) (2022-11-15)
 
 
