@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/dylandepass/rosalind-dna/compare/v1.0.12...v1.0.13) (2022-11-16)
+
+
+### Bug Fixes
+
+* switch to Nunito for form elements ([a7c2a3c](https://github.com/dylandepass/rosalind-dna/commit/a7c2a3cc21ee16be46fdffa72208c3ca0ae75a6e))
+
 ## [1.0.12](https://github.com/dylandepass/rosalind-dna/compare/v1.0.11...v1.0.12) (2022-11-16)
 
 
