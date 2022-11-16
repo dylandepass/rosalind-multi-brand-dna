@@ -1,3 +1,11 @@
+## [1.0.10](https://github.com/dylandepass/rosalind-dna/compare/v1.0.9...v1.0.10) (2022-11-16)
+
+
+### Bug Fixes
+
+* button styles ([ab14001](https://github.com/dylandepass/rosalind-dna/commit/ab140012b0d40d5e3a9bd4d6cefcdb10cd161710))
+* rename background tokens ([8c17db4](https://github.com/dylandepass/rosalind-dna/commit/8c17db46e969eec1ed16119517643773dac7dfd5))
+
 ## [1.0.9](https://github.com/dylandepass/rosalind-dna/compare/v1.0.8...v1.0.9) (2022-11-16)
 
 
