@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/dylandepass/rosalind-dna/compare/v1.0.8...v1.0.9) (2022-11-16)
+
+
+### Bug Fixes
+
+* configurable background color ([0eb30b5](https://github.com/dylandepass/rosalind-dna/commit/0eb30b59c3cd006c7a4daf433edcf55f45fab5bf))
+
 ## [1.0.8](https://github.com/dylandepass/rosalind-dna/compare/v1.0.7...v1.0.8) (2022-11-16)
 
 
