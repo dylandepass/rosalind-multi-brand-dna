@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dylandepass/rosalind-dna/compare/v1.0.6...v1.0.7) (2022-11-16)
+
+
+### Bug Fixes
+
+* group tokens path + margin bottom ([030906f](https://github.com/dylandepass/rosalind-dna/commit/030906fd424da80466eee81bfc89fceb94d97a3a))
+
 ## [1.0.6](https://github.com/dylandepass/rosalind-dna/compare/v1.0.5...v1.0.6) (2022-11-15)
 
 
