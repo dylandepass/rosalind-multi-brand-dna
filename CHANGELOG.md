@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/dylandepass/rosalind-dna/compare/v1.0.13...v1.0.14) (2022-11-16)
+
+
+### Bug Fixes
+
+* add section tokens ([e35ea39](https://github.com/dylandepass/rosalind-dna/commit/e35ea39e6e65be6f54bdf4bfd7ce136aa19da738))
+
 ## [1.0.13](https://github.com/dylandepass/rosalind-dna/compare/v1.0.12...v1.0.13) (2022-11-16)
 
 
