@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/dylandepass/rosalind-dna/compare/v1.0.7...v1.0.8) (2022-11-16)
+
+
+### Bug Fixes
+
+* Switch to Nunito font ([bc4dbab](https://github.com/dylandepass/rosalind-dna/commit/bc4dbab0423a31987d2108733842abbcc69fbca4))
+
 ## [1.0.7](https://github.com/dylandepass/rosalind-dna/compare/v1.0.6...v1.0.7) (2022-11-16)
 
 
