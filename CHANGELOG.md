@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/dylandepass/rosalind-dna/compare/v1.0.15...v1.0.16) (2022-11-17)
+
+
+### Bug Fixes
+
+* add shadow 100 ([ccaf8bb](https://github.com/dylandepass/rosalind-dna/commit/ccaf8bb4a1270da0396b756154aaf8e1607f6865))
+
 ## [1.0.15](https://github.com/dylandepass/rosalind-dna/compare/v1.0.14...v1.0.15) (2022-11-17)
 
 
