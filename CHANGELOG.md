@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/dylandepass/rosalind-dna/compare/v1.0.16...v1.0.17) (2022-11-17)
+
+
+### Bug Fixes
+
+* add px to to x, y, blur, spread props ([2230e80](https://github.com/dylandepass/rosalind-dna/commit/2230e80dd915737f0f251874ede5f1a5c7df1435))
+
 ## [1.0.16](https://github.com/dylandepass/rosalind-dna/compare/v1.0.15...v1.0.16) (2022-11-17)
 
 
