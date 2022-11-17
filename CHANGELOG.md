@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/dylandepass/rosalind-dna/compare/v1.0.14...v1.0.15) (2022-11-17)
+
+
+### Bug Fixes
+
+* add margin-bottom for p tags ([f5a9c32](https://github.com/dylandepass/rosalind-dna/commit/f5a9c32bcfd73cca9f0e66234d96719f1e91496c))
+
 ## [1.0.14](https://github.com/dylandepass/rosalind-dna/compare/v1.0.13...v1.0.14) (2022-11-16)
 
 
