@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/dylandepass/rosalind-dna/compare/v1.0.17...v1.0.18) (2022-11-17)
+
+
+### Bug Fixes
+
+* add margin bottom for default-content-wrapper ([77d8957](https://github.com/dylandepass/rosalind-dna/commit/77d89575d47265148105825e15748976a8bcd5c8))
+
 ## [1.0.17](https://github.com/dylandepass/rosalind-dna/compare/v1.0.16...v1.0.17) (2022-11-17)
 
 
