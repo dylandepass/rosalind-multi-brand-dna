@@ -19,11 +19,24 @@ StyleDictionary.registerTransform({
   type: 'value',
   matcher(prop) {
     // You can be more specific here if you only want 'em' units for font sizes
-    return ['fontSizes', 'fontSize', 'lineHeights', 'lineHeight', 'sizing', 'spacing', 'borderRadius', 'borderWidth', 'x', 'y', 'blur', 'spread'].includes(prop.type) && !prop.name.includes('multiplier');
+    return ['sizing', 'spacing', 'borderRadius', 'borderWidth', 'x', 'y', 'blur', 'spread'].includes(prop.type) && !prop.name.includes('multiplier');
   },
   transformer(prop) {
     // You can also modify the value here if you want to convert pixels to ems
     return `${parseFloat(prop.original.value)}px`;
+  },
+});
+
+StyleDictionary.registerTransform({
+  name: 'sizes/rem',
+  type: 'value',
+  matcher(prop) {
+    // You can be more specific here if you only want 'em' units for font sizes
+    return ['fontSizes', 'fontSize', 'lineHeights', 'lineHeight'].includes(prop.type) && !prop.name.includes('multiplier');
+  },
+  transformer(prop) {
+    // You can also modify the value here if you want to convert pixels to ems
+    return `${parseFloat(prop.original.value) * 0.0625}rem`;
   },
 });
 
@@ -42,7 +55,7 @@ function getStyleDictionaryConfig(theme, files) {
             outputReferences: true,
           },
         }],
-        transforms: ['attribute/cti', 'name/cti/kebab', 'time/seconds', 'content/icon', 'sizes/px', 'color/css'],
+        transforms: ['attribute/cti', 'name/cti/kebab', 'time/seconds', 'content/icon', 'sizes/px', 'sizes/rem', 'color/css'],
       },
       scss: {
         transformGroup: 'scss',
@@ -55,7 +68,7 @@ function getStyleDictionaryConfig(theme, files) {
             outputReferences: true,
           },
         }],
-        transforms: ['attribute/cti', 'name/cti/kebab', 'time/seconds', 'content/icon', 'sizes/px', 'color/css'],
+        transforms: ['attribute/cti', 'name/cti/kebab', 'time/seconds', 'content/icon', 'sizes/px', 'sizes/rem', 'color/css'],
       },
     },
   };
