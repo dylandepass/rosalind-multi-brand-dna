@@ -1,3 +1,10 @@
+## [1.0.22](https://github.com/dylandepass/rosalind-dna/compare/v1.0.21...v1.0.22) (2022-11-20)
+
+
+### Bug Fixes
+
+* update spacing ([3394f8e](https://github.com/dylandepass/rosalind-dna/commit/3394f8eaf13b3361362024d7b09dacc7c5d2bdb0))
+
 ## [1.0.21](https://github.com/dylandepass/rosalind-dna/compare/v1.0.20...v1.0.21) (2022-11-20)
 
 
