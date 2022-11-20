@@ -1,3 +1,31 @@
+## [1.0.20](https://github.com/dylandepass/rosalind-dna/compare/v1.0.19...v1.0.20) (2022-11-19)
+
+
+### Bug Fixes
+
+* add nav tokens ([ef44612](https://github.com/dylandepass/rosalind-dna/commit/ef446127fac1e24f4d517d2bcdcef669989acbd5))
+
+## [1.0.19](https://github.com/dylandepass/rosalind-dna/compare/v1.0.18...v1.0.19) (2022-11-18)
+
+
+### Bug Fixes
+
+* update section padding ([cbe983a](https://github.com/dylandepass/rosalind-dna/commit/cbe983ae5b99fc95e810b89c57d1a06737d9a00f))
+
+## [1.0.18](https://github.com/dylandepass/rosalind-dna/compare/v1.0.17...v1.0.18) (2022-11-17)
+
+
+### Bug Fixes
+
+* add margin bottom for default-content-wrapper ([77d8957](https://github.com/dylandepass/rosalind-dna/commit/77d89575d47265148105825e15748976a8bcd5c8))
+
+## [1.0.17](https://github.com/dylandepass/rosalind-dna/compare/v1.0.16...v1.0.17) (2022-11-17)
+
+
+### Bug Fixes
+
+* add px to to x, y, blur, spread props ([2230e80](https://github.com/dylandepass/rosalind-dna/commit/2230e80dd915737f0f251874ede5f1a5c7df1435))
+
 ## [1.0.16](https://github.com/dylandepass/rosalind-dna/compare/v1.0.15...v1.0.16) (2022-11-17)
 
 
