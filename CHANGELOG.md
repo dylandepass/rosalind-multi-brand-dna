@@ -1,3 +1,10 @@
+## [1.0.21](https://github.com/dylandepass/rosalind-dna/compare/v1.0.20...v1.0.21) (2022-11-20)
+
+
+### Bug Fixes
+
+* use rem for font-size and line-height ([fe3ea4d](https://github.com/dylandepass/rosalind-dna/commit/fe3ea4dfed4ce6cffd1ff74280c025f8d9b054f1))
+
 ## [1.0.20](https://github.com/dylandepass/rosalind-dna/compare/v1.0.19...v1.0.20) (2022-11-19)
 
 
