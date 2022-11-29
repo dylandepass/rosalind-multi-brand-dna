@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/dylandepass/rosalind-dna/compare/v1.0.24...v1.0.25) (2022-11-29)
+
+
+### Bug Fixes
+
+* updated primary color ([382b897](https://github.com/dylandepass/rosalind-dna/commit/382b89771f1a1d63c601ac431f1e52e5ad72f3fe))
+
 ## [1.0.24](https://github.com/dylandepass/rosalind-dna/compare/v1.0.23...v1.0.24) (2022-11-29)
 
 
