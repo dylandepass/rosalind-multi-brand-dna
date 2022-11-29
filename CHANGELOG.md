@@ -1,3 +1,10 @@
+## [1.0.23](https://github.com/dylandepass/rosalind-dna/compare/v1.0.22...v1.0.23) (2022-11-29)
+
+
+### Bug Fixes
+
+* test update ([8690895](https://github.com/dylandepass/rosalind-dna/commit/8690895b65c992f271fae58e79bd4ea182f6f3c1))
+
 ## [1.0.22](https://github.com/dylandepass/rosalind-dna/compare/v1.0.21...v1.0.22) (2022-11-20)
 
 
