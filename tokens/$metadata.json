@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "light-theme",
+    "dark-theme",
+    "Rosalind",
+    "core"
+  ]
+}
