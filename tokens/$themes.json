@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "3836424bac3ba90d1d5878c7573e4381770aefb8",
+    "name": "Rosalind (Light Theme)",
+    "selectedTokenSets": {
+      "global": "source",
+      "light-theme": "enabled",
+      "dark-theme": "disabled",
+      "Rosalind/core": "enabled",
+      "semantic": "enabled",
+      "Rosalind/dark-theme": "disabled",
+      "Rosalind/light-theme": "enabled",
+      "WKND/core": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "204385e5d7141334bab00c1b5b1e32ab072c391f",
+    "name": "Rosalind (Dark Theme)",
+    "selectedTokenSets": {
+      "global": "source",
+      "light-theme": "disabled",
+      "dark-theme": "enabled",
+      "semantic": "enabled",
+      "Rosalind/core": "enabled",
+      "Rosalind/light-theme": "disabled",
+      "Rosalind/dark-theme": "enabled",
+      "WKND/core": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4094953309ec2600273730012f52d17fc7ae6847",
+    "name": "WKND",
+    "selectedTokenSets": {
+      "global": "source",
+      "light-theme": "enabled",
+      "dark-theme": "disabled",
+      "semantic": "enabled",
+      "Rosalind/core": "disabled",
+      "Rosalind/light-theme": "disabled",
+      "Rosalind/dark-theme": "disabled",
+      "WKND/core": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

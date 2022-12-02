@@ -1,0 +1,56 @@
+{
+  "semantic": {
+    "assets": {
+      "logo": {
+        "value": "https://i.imgur.com/LcSyqJN.png",
+        "type": "asset"
+      }
+    },
+    "color": {
+      "primary": {
+        "base": {
+          "value": "{global.color.static.yellow.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{global.color.static.black}",
+          "type": "color"
+        }
+      },
+      "foreground": {
+        "on-primary": {
+          "value": "{global.color.static.black}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{global.color.static.white}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "base": {
+          "value": "{global.color.static.black}",
+          "type": "color"
+        }
+      },
+      "footer": {
+        "background": {
+          "value": "{global.color.static.zinc.900}",
+          "type": "color"
+        }
+      }
+    },
+    "size": {
+      "logo": {
+        "width": {
+          "value": "{global.size.72}",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "{global.size.32}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "semantic": {
+    "color": {
+      "background": {
+        "base": {
+          "value": "{global.color.static.slate.900}",
+          "type": "color"
+        },
+        "layer-1": {
+          "value": "{global.color.static.slate.800}",
+          "type": "color"
+        },
+        "layer-2": {
+          "value": "{global.color.static.slate.700}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

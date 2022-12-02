@@ -3,7 +3,10 @@
     "global",
     "light-theme",
     "dark-theme",
-    "Rosalind",
-    "core"
+    "semantic",
+    "Rosalind/core",
+    "Rosalind/light-theme",
+    "Rosalind/dark-theme",
+    "WKND/core"
   ]
 }
