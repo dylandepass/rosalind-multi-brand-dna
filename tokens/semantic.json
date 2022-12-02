@@ -189,6 +189,42 @@
         "value": "https://i.imgur.com/KXoW4Em.png",
         "type": "asset"
       }
+    },
+    "radii": {
+      "sm": {
+        "value": "{global.radii.4}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{global.radii.6}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{global.radii.8}",
+        "type": "borderRadius"
+      },
+      "none": {
+        "value": "{global.radii.0}",
+        "type": "borderRadius"
+      }
+    },
+    "borderWidth": {
+      "sm": {
+        "value": "{global.borderWidth.1}",
+        "type": "borderWidth"
+      },
+      "md": {
+        "value": "{global.borderWidth.2}",
+        "type": "borderWidth"
+      },
+      "lg": {
+        "value": "{global.borderWidth.4}",
+        "type": "borderWidth"
+      },
+      "none": {
+        "value": "{global.borderWidth.0}",
+        "type": "borderWidth"
+      }
     }
   }
 }
