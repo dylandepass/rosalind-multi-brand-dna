@@ -6,11 +6,11 @@
       "global": "source",
       "light-theme": "enabled",
       "dark-theme": "disabled",
-      "Rosalind/core": "enabled",
       "semantic": "enabled",
       "Rosalind/dark-theme": "disabled",
       "Rosalind/light-theme": "enabled",
-      "WKND/core": "disabled"
+      "Rosalind/semantic": "enabled",
+      "WKND/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -22,10 +22,10 @@
       "light-theme": "disabled",
       "dark-theme": "enabled",
       "semantic": "enabled",
-      "Rosalind/core": "enabled",
       "Rosalind/light-theme": "disabled",
       "Rosalind/dark-theme": "enabled",
-      "WKND/core": "disabled"
+      "Rosalind/semantic": "enabled",
+      "WKND/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,10 +37,10 @@
       "light-theme": "enabled",
       "dark-theme": "disabled",
       "semantic": "enabled",
-      "Rosalind/core": "disabled",
       "Rosalind/light-theme": "disabled",
       "Rosalind/dark-theme": "disabled",
-      "WKND/core": "enabled"
+      "Rosalind/semantic": "disabled",
+      "WKND/semantic": "enabled"
     },
     "$figmaStyleReferences": {}
   }

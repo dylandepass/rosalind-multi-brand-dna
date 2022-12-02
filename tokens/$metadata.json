@@ -4,9 +4,9 @@
     "light-theme",
     "dark-theme",
     "semantic",
-    "Rosalind/core",
+    "Rosalind/semantic",
     "Rosalind/light-theme",
     "Rosalind/dark-theme",
-    "WKND/core"
+    "WKND/semantic"
   ]
 }
