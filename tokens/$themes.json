@@ -7,10 +7,10 @@
       "light-theme": "enabled",
       "dark-theme": "disabled",
       "semantic": "enabled",
-      "Rosalind/dark-theme": "disabled",
-      "Rosalind/light-theme": "enabled",
-      "Rosalind/semantic": "enabled",
-      "WKND/semantic": "disabled"
+      "Components/buttons": "disabled",
+      "Brands/Rosalind/semantic": "enabled",
+      "Brands/Rosalind/dark-theme": "disabled",
+      "Brands/WKND/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -22,10 +22,10 @@
       "light-theme": "disabled",
       "dark-theme": "enabled",
       "semantic": "enabled",
-      "Rosalind/light-theme": "disabled",
-      "Rosalind/dark-theme": "enabled",
-      "Rosalind/semantic": "enabled",
-      "WKND/semantic": "disabled"
+      "Components/buttons": "disabled",
+      "Brands/Rosalind/semantic": "enabled",
+      "Brands/Rosalind/dark-theme": "enabled",
+      "Brands/WKND/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,10 +37,10 @@
       "light-theme": "enabled",
       "dark-theme": "disabled",
       "semantic": "enabled",
-      "Rosalind/light-theme": "disabled",
-      "Rosalind/dark-theme": "disabled",
-      "Rosalind/semantic": "disabled",
-      "WKND/semantic": "enabled"
+      "Components/buttons": "disabled",
+      "Brands/Rosalind/semantic": "disabled",
+      "Brands/Rosalind/dark-theme": "disabled",
+      "Brands/WKND/semantic": "enabled"
     },
     "$figmaStyleReferences": {}
   }

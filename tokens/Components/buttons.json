@@ -1,0 +1,222 @@
+{
+  "component": {
+    "button": {
+      "primary": {
+        "default": {
+          "background-color": {
+            "value": "{semantic.color.primary.base}",
+            "type": "color"
+          },
+          "foreground-color": {
+            "value": "{semantic.color.foreground.on-primary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "{semantic.color.primary.dark}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-primary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        },
+        "down": {
+          "background-color": {
+            "value": "{semantic.color.primary.darker}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-primary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        },
+        "key-focus": {
+          "background-color": {
+            "value": "{semantic.color.primary.base}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-primary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.secondary.light}",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "background-color": {
+            "value": "{semantic.color.background.disabled}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-disabled}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        }
+      },
+      "secondary": {
+        "default": {
+          "background-color": {
+            "value": "{semantic.color.secondary.base}",
+            "type": "color"
+          },
+          "foreground-color": {
+            "value": "{semantic.color.foreground.on-secondary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "{semantic.color.secondary.dark}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-secondary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        },
+        "down": {
+          "background-color": {
+            "value": "{semantic.color.secondary.darker}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-secondary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        },
+        "key-focus": {
+          "background-color": {
+            "value": "{semantic.color.secondary.base}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-secondary}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.secondary.light}",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "background-color": {
+            "value": "{semantic.color.background.disabled}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-disabled}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        }
+      },
+      "quiet": {
+        "default": {
+          "background-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          },
+          "foreground-color": {
+            "value": "{semantic.color.primary.base}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.primary.base}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          },
+          "foreground-color": {
+            "value": "{semantic.color.primary.dark}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.primary.dark}",
+            "type": "color"
+          }
+        },
+        "down": {
+          "background-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          },
+          "foreground-color": {
+            "value": "{semantic.color.primary.darker}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.primary.darker}",
+            "type": "color"
+          }
+        },
+        "key-focus": {
+          "background-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          },
+          "foreground-color": {
+            "value": "{semantic.color.primary.base}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.seconday.light}",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "background-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{semantic.color.foreground.on-disabled}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.transparent}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
