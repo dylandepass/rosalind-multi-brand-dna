@@ -5,8 +5,10 @@
     "dark-theme",
     "semantic",
     "Components/buttons",
-    "Brands/Rosalind/semantic",
+    "Components/form",
+    "Patterns/header",
     "Brands/Rosalind/dark-theme",
-    "Brands/WKND/semantic"
+    "Brands/WKND/semantic",
+    "Brands/WKND/pattern"
   ]
 }

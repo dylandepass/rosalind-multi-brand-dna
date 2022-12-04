@@ -1,0 +1,80 @@
+{
+  "component": {
+    "form": {
+      "color": {
+        "input": {
+          "default": {
+            "background-color": {
+              "value": "{global.color.static.slate.900}",
+              "type": "color"
+            },
+            "foreground-color": {
+              "value": "{global.color.static.white}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "background-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "foreground-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            }
+          },
+          "down": {
+            "background-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "foreground-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            }
+          },
+          "key-focus": {
+            "background-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "foreground-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "background-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "foreground-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.global.form.input.background-color}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -39,18 +39,6 @@
           "type": "color"
         }
       }
-    },
-    "size": {
-      "logo": {
-        "width": {
-          "value": "{global.size.72}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{global.size.32}",
-          "type": "sizing"
-        }
-      }
     }
   }
 }
