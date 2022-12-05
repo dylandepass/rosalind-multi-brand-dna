@@ -243,31 +243,27 @@
         "disabled": {
           "value": "{global.color.static.gray.600}",
           "type": "color"
+        },
+        "input": {
+          "value": "{semantic.color.transparent}",
+          "type": "color"
         }
       },
       "foreground": {
-        "on-base": {
-          "value": "{theme.color.grey.800}",
+        "subtle": {
+          "value": "{theme.color.gray.600}",
           "type": "color"
         },
-        "on-base-subtle": {
-          "value": "{theme.color.grey.600}",
+        "on-base": {
+          "value": "{theme.color.gray.800}",
           "type": "color"
         },
         "on-layer-1": {
-          "value": "{theme.color.grey.800}",
-          "type": "color"
-        },
-        "on-layer-1-subtle": {
-          "value": "{theme.color.grey.600}",
+          "value": "{theme.color.gray.800}",
           "type": "color"
         },
         "on-layer-2": {
-          "value": "{theme.color.grey.800}",
-          "type": "color"
-        },
-        "on-layer-2-subtle": {
-          "value": "{theme.color.grey.600}",
+          "value": "{theme.color.gray.800}",
           "type": "color"
         },
         "on-primary": {
@@ -280,6 +276,10 @@
         },
         "on-disabled": {
           "value": "{global.color.static.gray.500}",
+          "type": "color"
+        },
+        "on-input": {
+          "value": "{global.color.static.white}",
           "type": "color"
         }
       },
@@ -364,6 +364,28 @@
       "transparent": {
         "value": "{global.color.static.transparent.black.900}",
         "type": "color"
+      },
+      "border": {
+        "base": {
+          "value": "{global.color.static.gray.400}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.color.primary.base}",
+          "type": "color"
+        },
+        "down": {
+          "value": "{semantic.color.primary.base}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{semantic.color.secondary.light}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{global.color.static.gray.600}",
+          "type": "color"
+        }
       }
     },
     "assets": {

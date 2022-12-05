@@ -4,15 +4,15 @@
     "name": "Rosalind (Dark Theme)",
     "selectedTokenSets": {
       "global": "source",
-      "light-theme": "disabled",
-      "dark-theme": "enabled",
       "semantic": "enabled",
       "Brands/Rosalind/dark-theme": "enabled",
       "Brands/WKND/semantic": "disabled",
       "Components/buttons": "enabled",
       "Patterns/header": "enabled",
       "Brands/WKND/pattern": "disabled",
-      "Components/form": "enabled"
+      "Components/form/text-field": "enabled",
+      "dark-palette": "enabled",
+      "light-palette": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -21,15 +21,15 @@
     "name": "WKND",
     "selectedTokenSets": {
       "global": "source",
-      "light-theme": "enabled",
-      "dark-theme": "disabled",
       "semantic": "enabled",
       "Brands/Rosalind/dark-theme": "disabled",
       "Brands/WKND/semantic": "enabled",
       "Components/buttons": "enabled",
       "Patterns/header": "enabled",
       "Brands/WKND/pattern": "enabled",
-      "Components/form": "enabled"
+      "Components/form/text-field": "enabled",
+      "dark-palette": "disabled",
+      "light-palette": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -38,15 +38,15 @@
     "name": "Rosalind (Light Theme)",
     "selectedTokenSets": {
       "global": "source",
-      "light-theme": "enabled",
-      "dark-theme": "disabled",
       "semantic": "enabled",
       "Brands/Rosalind/dark-theme": "disabled",
       "Brands/WKND/semantic": "disabled",
       "Components/buttons": "enabled",
       "Patterns/header": "enabled",
       "Brands/WKND/pattern": "disabled",
-      "Components/form": "enabled"
+      "Components/form/text-field": "enabled",
+      "dark-palette": "disabled",
+      "light-palette": "enabled"
     },
     "$figmaStyleReferences": {}
   }
