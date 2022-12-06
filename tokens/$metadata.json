@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "global",
-    "light-palette",
-    "dark-palette",
+    "light-theme",
+    "dark-theme",
     "semantic",
     "Components/buttons",
     "Components/form/form",

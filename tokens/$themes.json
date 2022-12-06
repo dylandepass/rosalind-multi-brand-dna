@@ -11,27 +11,9 @@
       "Patterns/header": "enabled",
       "Brands/WKND/pattern": "disabled",
       "Components/form/text-field": "enabled",
-      "dark-palette": "enabled",
-      "light-palette": "disabled",
-      "Components/form/form": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "3836424bac3ba90d1d5878c7573e4381770aefb8",
-    "name": "Rosalind (Light Theme)",
-    "selectedTokenSets": {
-      "global": "source",
-      "semantic": "enabled",
-      "Brands/Rosalind/dark-theme": "disabled",
-      "Brands/WKND/semantic": "disabled",
-      "Components/buttons": "enabled",
-      "Patterns/header": "enabled",
-      "Brands/WKND/pattern": "disabled",
-      "Components/form/text-field": "enabled",
-      "dark-palette": "disabled",
-      "light-palette": "enabled",
-      "Components/form/form": "enabled"
+      "Components/form/form": "enabled",
+      "light-theme": "disabled",
+      "dark-theme": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -47,9 +29,27 @@
       "Patterns/header": "enabled",
       "Brands/WKND/pattern": "enabled",
       "Components/form/text-field": "enabled",
-      "dark-palette": "disabled",
-      "light-palette": "enabled",
-      "Components/form/form": "enabled"
+      "Components/form/form": "enabled",
+      "light-theme": "source",
+      "dark-theme": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3836424bac3ba90d1d5878c7573e4381770aefb8",
+    "name": "Rosalind (Light Theme)",
+    "selectedTokenSets": {
+      "global": "source",
+      "semantic": "enabled",
+      "Brands/Rosalind/dark-theme": "disabled",
+      "Brands/WKND/semantic": "disabled",
+      "Components/buttons": "enabled",
+      "Patterns/header": "enabled",
+      "Brands/WKND/pattern": "disabled",
+      "Components/form/text-field": "enabled",
+      "Components/form/form": "enabled",
+      "light-theme": "source",
+      "dark-theme": "disabled"
     },
     "$figmaStyleReferences": {}
   }
