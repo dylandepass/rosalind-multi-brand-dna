@@ -51,11 +51,11 @@
       },
       "xs": {
         "type": "fontSizes",
-        "value": "roundTo({global.font-size._base} / {global.font-size._scale}^2, 0)"
+        "value": "12"
       },
       "sm": {
         "type": "fontSizes",
-        "value": "roundTo({global.font-size._base} / {global.font-size._scale}, 0)"
+        "value": "14"
       },
       "md": {
         "value": "{global.font-size._base}*{global.font-size._scale}^0",

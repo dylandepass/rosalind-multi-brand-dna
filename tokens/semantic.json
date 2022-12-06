@@ -188,6 +188,12 @@
           "value": "{global.breakpoints.500}",
           "type": "sizing"
         }
+      },
+      "section": {
+        "max-width": {
+          "value": "{global.breakpoints.400}",
+          "type": "sizing"
+        }
       }
     },
     "color": {
@@ -943,6 +949,30 @@
       "line-through": {
         "value": "line-through",
         "type": "textDecoration"
+      }
+    },
+    "spacing": {
+      "section": {
+        "desktop": {
+          "padding-x": {
+            "value": "{global.space.400}",
+            "type": "spacing"
+          },
+          "padding-y": {
+            "value": "{global.space.1200}",
+            "type": "spacing"
+          }
+        },
+        "mobile": {
+          "padding-x": {
+            "value": "{global.space.250}",
+            "type": "spacing"
+          },
+          "padding-y": {
+            "value": "{global.space.600}",
+            "type": "spacing"
+          }
+        }
       }
     }
   }

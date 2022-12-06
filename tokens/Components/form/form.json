@@ -1,0 +1,26 @@
+{
+  "component": {
+    "form": {
+      "font-size": {
+        "label": {
+          "value": "{global.font-size.sm}",
+          "type": "fontSizes"
+        },
+        "help": {
+          "value": "{global.font-size.xs}",
+          "type": "fontSizes"
+        }
+      },
+      "font-family": {
+        "label": {
+          "value": "Nunito, sans-serif",
+          "type": "fontFamilies"
+        },
+        "help": {
+          "value": "Nunito, sans-serif",
+          "type": "fontFamilies"
+        }
+      }
+    }
+  }
+}

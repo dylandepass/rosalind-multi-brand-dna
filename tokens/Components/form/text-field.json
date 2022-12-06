@@ -80,6 +80,87 @@
           "value": "{theme.color.gray.300}",
           "type": "color"
         }
+      },
+      "border-radius": {
+        "value": "{semantic.radii.default}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "default": {
+          "value": "{semantic.border-width.sm}",
+          "type": "borderWidth"
+        },
+        "hover": {
+          "value": "{semantic.border-width.sm}",
+          "type": "borderWidth"
+        },
+        "down": {
+          "value": "{semantic.border-width.sm}",
+          "type": "borderWidth"
+        },
+        "key-focus": {
+          "value": "{semantic.border-width.lg}",
+          "type": "borderWidth"
+        },
+        "disabled": {
+          "value": "{semantic.border-width.sm}",
+          "type": "borderWidth"
+        }
+      },
+      "size": {
+        "padding-x": {
+          "value": "{global.size.125}",
+          "type": "sizing"
+        },
+        "padding-y": {
+          "value": "{global.size.100}",
+          "type": "sizing"
+        }
+      },
+      "font-size": {
+        "text": {
+          "value": "{global.font-size.sm}",
+          "type": "fontSizes"
+        }
+      },
+      "font-family": {
+        "text": {
+          "value": "Nunito, sans-serif",
+          "type": "fontFamilies"
+        }
+      },
+      "line-height": {
+        "text": {
+          "value": "{semantic.line-height.body}",
+          "type": "lineHeights"
+        }
+      },
+      "font-weight": {
+        "text": {
+          "value": "{semantic.font-weight.normal}",
+          "type": "fontWeights"
+        }
+      },
+      "letter-spacing": {
+        "text": {
+          "value": "{semantic.letter-spacing.default}",
+          "type": "letterSpacing"
+        }
+      },
+      "typography": {
+        "text": {
+          "value": {
+            "fontFamily": "{component.text-field.font-family.text}",
+            "fontWeight": "{component.text-field.font-weight.text}",
+            "lineHeight": "{component.text-field.line-height.text}",
+            "fontSize": "{component.text-field.font-size.text}",
+            "letterSpacing": "{component.text-field.letter-spacing.text}",
+            "paragraphSpacing": "{semantic.paragraph-spacing.default}",
+            "textDecoration": "{semantic.text-decoration.none}",
+            "textCase": "{semantic.text-case.none}"
+          },
+          "type": "typography"
+        }
       }
     }
   }

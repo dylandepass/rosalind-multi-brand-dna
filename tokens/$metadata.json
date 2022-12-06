@@ -5,6 +5,7 @@
     "dark-palette",
     "semantic",
     "Components/buttons",
+    "Components/form/form",
     "Components/form/text-field",
     "Patterns/header",
     "Brands/Rosalind/dark-theme",

@@ -12,24 +12,8 @@
       "Brands/WKND/pattern": "disabled",
       "Components/form/text-field": "enabled",
       "dark-palette": "enabled",
-      "light-palette": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "4094953309ec2600273730012f52d17fc7ae6847",
-    "name": "WKND",
-    "selectedTokenSets": {
-      "global": "source",
-      "semantic": "enabled",
-      "Brands/Rosalind/dark-theme": "disabled",
-      "Brands/WKND/semantic": "enabled",
-      "Components/buttons": "enabled",
-      "Patterns/header": "enabled",
-      "Brands/WKND/pattern": "enabled",
-      "Components/form/text-field": "enabled",
-      "dark-palette": "disabled",
-      "light-palette": "enabled"
+      "light-palette": "disabled",
+      "Components/form/form": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -46,7 +30,26 @@
       "Brands/WKND/pattern": "disabled",
       "Components/form/text-field": "enabled",
       "dark-palette": "disabled",
-      "light-palette": "enabled"
+      "light-palette": "enabled",
+      "Components/form/form": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4094953309ec2600273730012f52d17fc7ae6847",
+    "name": "WKND",
+    "selectedTokenSets": {
+      "global": "source",
+      "semantic": "enabled",
+      "Brands/Rosalind/dark-theme": "disabled",
+      "Brands/WKND/semantic": "enabled",
+      "Components/buttons": "enabled",
+      "Patterns/header": "enabled",
+      "Brands/WKND/pattern": "enabled",
+      "Components/form/text-field": "enabled",
+      "dark-palette": "disabled",
+      "light-palette": "enabled",
+      "Components/form/form": "enabled"
     },
     "$figmaStyleReferences": {}
   }
