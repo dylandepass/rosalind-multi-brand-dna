@@ -15,12 +15,7 @@
   "scripts": {
     "semantic-release": "semantic-release",
     "commit": "git-cz",
-    "transform": "npm run transform-global && npm run transform-light && npm run transform-dark",
-    "transform-global": "token-transformer --expandTypography=true --expandShadow=true tokens/tokens.json tokens/global.json global",
-    "transform-light": "token-transformer --expandTypography=true --expandShadow=true tokens/tokens.json tokens/light-theme.json light",
-    "transform-dark": "token-transformer --expandTypography=true --expandShadow=true tokens/tokens.json tokens/dark-theme.json dark",
-    "test-transform": "token-transformer --expandTypography=true --expandShadow=true tokens/global.json output.json global",
-    "build": "npm run transform && node build.js"
+    "transform": "node transform.js"
   },
   "author": "Dylan Depass <dyland@adobe.com>",
   "license": "Apache License 2.0",

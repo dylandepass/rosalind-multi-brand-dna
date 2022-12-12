@@ -13,8 +13,6 @@ const fs = require('fs').promises;
 const cp = require('child_process');
 const StyleDictionary = require('style-dictionary');
 
-// token-transformer --expandTypography=true --expandShadow=true tokens/tokens.json tokens/global.json global
-
 StyleDictionary.registerTransform({
   name: 'sizes/px',
   type: 'value',
@@ -96,15 +94,10 @@ async function transformTokens() {
 
     const tokenTransformerArgs = ['token-transformer', '--throwErrorWhenNotResolved', '--expandTypography=true', 'tokens', `./tokens/${theme.name}.json`, sets.join(','), sourceSets.join(',')];
 
-    const transformResult = cp.spawnSync('npx', tokenTransformerArgs);
+    cp.spawnSync('npx', tokenTransformerArgs);
 
     const sd = StyleDictionary.extend(getStyleDictionaryConfig(theme.name, [`./tokens/${theme.name}.json`]));
     sd.buildAllPlatforms();
-
-    console.log('result', transformResult);
-    console.log('args', tokenTransformerArgs);
-    console.log('sets', sets);
-    console.log('sourceSets', sourceSets);
   });
 }
 
