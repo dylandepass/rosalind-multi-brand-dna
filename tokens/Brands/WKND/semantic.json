@@ -39,6 +39,36 @@
           "type": "color"
         }
       }
+    },
+    "font-family": {
+      "display": {
+        "value": "Asar, serif",
+        "type": "fontFamilies"
+      },
+      "heading": {
+        "value": "Asar, serif",
+        "type": "fontFamilies"
+      },
+      "eyebrow": {
+        "value": "Asar, serif",
+        "type": "fontFamilies"
+      },
+      "subtitle": {
+        "value": "Asar, serif",
+        "type": "fontFamilies"
+      },
+      "caption": {
+        "value": "Asar, serif",
+        "type": "fontFamilies"
+      },
+      "mono": {
+        "value": "Source Code Pro, Courier New",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Asar, serif",
+        "type": "fontFamilies"
+      }
     }
   }
 }

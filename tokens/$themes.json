@@ -13,7 +13,8 @@
       "Components/form/text-field": "enabled",
       "Components/form/form": "enabled",
       "light-theme": "disabled",
-      "dark-theme": "source"
+      "dark-theme": "source",
+      "Components/form/checkbox": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -31,7 +32,8 @@
       "Components/form/text-field": "enabled",
       "Components/form/form": "enabled",
       "light-theme": "source",
-      "dark-theme": "disabled"
+      "dark-theme": "disabled",
+      "Components/form/checkbox": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -49,7 +51,8 @@
       "Components/form/text-field": "enabled",
       "Components/form/form": "enabled",
       "light-theme": "source",
-      "dark-theme": "disabled"
+      "dark-theme": "disabled",
+      "Components/form/checkbox": "disabled"
     },
     "$figmaStyleReferences": {}
   }

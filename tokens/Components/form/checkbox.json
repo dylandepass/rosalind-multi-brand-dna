@@ -1,6 +1,6 @@
 {
   "component": {
-    "text-field": {
+    "checkbox": {
       "color": {
         "default": {
           "background-color": {
@@ -79,6 +79,20 @@
         "icon": {
           "value": "{theme.color.gray.300}",
           "type": "color"
+        },
+        "checked": {
+          "background-color": {
+            "value": "{semantic.color.primary.base}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.primary.base}",
+            "type": "color"
+          },
+          "foreground-color": {
+            "value": "{semantic.color.foreground.on-primary}",
+            "type": "color"
+          }
         }
       },
       "border-radius": {
@@ -115,51 +129,6 @@
         "padding-y": {
           "value": "{global.size.100}",
           "type": "sizing"
-        }
-      },
-      "font-size": {
-        "text": {
-          "value": "{global.font-size.sm}",
-          "type": "fontSizes"
-        }
-      },
-      "font-family": {
-        "text": {
-          "value": "Nunito, sans-serif",
-          "type": "fontFamilies"
-        }
-      },
-      "line-height": {
-        "text": {
-          "value": "{semantic.line-height.body}",
-          "type": "lineHeights"
-        }
-      },
-      "font-weight": {
-        "text": {
-          "value": "{semantic.font-weight.normal}",
-          "type": "fontWeights"
-        }
-      },
-      "letter-spacing": {
-        "text": {
-          "value": "{semantic.letter-spacing.default}",
-          "type": "letterSpacing"
-        }
-      },
-      "typography": {
-        "text": {
-          "value": {
-            "fontFamily": "{component.checkbox.font-family.text}",
-            "fontWeight": "{component.checkbox.font-weight.text}",
-            "lineHeight": "{component.checkbox.line-height.text}",
-            "fontSize": "{component.checkbox.font-size.text}",
-            "letterSpacing": "{component.checkbox.letter-spacing.text}",
-            "paragraphSpacing": "{semantic.paragraph-spacing.default}",
-            "textDecoration": "{semantic.text-decoration.none}",
-            "textCase": "{semantic.text-case.none}"
-          },
-          "type": "typography"
         }
       }
     }
