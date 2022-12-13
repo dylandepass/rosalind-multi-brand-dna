@@ -622,6 +622,12 @@
           "value": "{semantic.font-weight.bold}",
           "type": "fontWeights"
         }
+      },
+      "source-code": {
+        "regular": {
+          "value": "400",
+          "type": "fontWeights"
+        }
       }
     },
     "typography": {
@@ -654,7 +660,7 @@
       "source-code": {
         "value": {
           "fontFamily": "{semantic.font-family.mono}",
-          "fontWeight": "{semantic.font-weight.normal}",
+          "fontWeight": "{semantic.font-weight.source-code.regular}",
           "lineHeight": "{semantic.line-height.source-code}",
           "fontSize": "{semantic.font-size.source-code}",
           "paragraphSpacing": "{semantic.paragraph-spacing.default}",
@@ -961,7 +967,7 @@
         "type": "textCase"
       },
       "eyebrow": {
-        "value": "none",
+        "value": "uppercase",
         "type": "textCase"
       }
     },

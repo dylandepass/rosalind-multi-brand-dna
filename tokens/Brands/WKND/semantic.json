@@ -42,23 +42,23 @@
     },
     "font-family": {
       "display": {
-        "value": "Asar",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "heading": {
-        "value": "Asar, serif",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "eyebrow": {
-        "value": "Asar, serif",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "subtitle": {
-        "value": "Asar, serif",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "caption": {
-        "value": "Asar, serif",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "mono": {
@@ -66,7 +66,7 @@
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Asar, serif",
+        "value": "Roboto",
         "type": "fontFamilies"
       }
     }
