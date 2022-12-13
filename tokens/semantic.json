@@ -401,7 +401,7 @@
       },
       "border": {
         "base": {
-          "value": "{global.color.static.gray.400}",
+          "value": "{theme.color.gray.200}",
           "type": "color"
         },
         "hover": {
@@ -668,7 +668,7 @@
         "display-1": {
           "value": {
             "fontFamily": "{semantic.font-family.heading}",
-            "fontWeight": "{semantic.font-weight.heading.bold}",
+            "fontWeight": "{semantic.font-weight.display.regular}",
             "lineHeight": "{semantic.line-height.heading}",
             "fontSize": "{semantic.font-size.display-1.desktop}",
             "paragraphSpacing": "{semantic.paragraph-spacing.default}",
@@ -681,7 +681,7 @@
         "display-2": {
           "value": {
             "fontFamily": "{semantic.font-family.heading}",
-            "fontWeight": "{semantic.font-weight.heading.bold}",
+            "fontWeight": "{semantic.font-weight.display.regular}",
             "lineHeight": "{semantic.line-height.heading}",
             "fontSize": "{semantic.font-size.display-2.desktop}",
             "paragraphSpacing": "{semantic.paragraph-spacing.default}",
@@ -694,7 +694,7 @@
         "display-3": {
           "value": {
             "fontFamily": "{semantic.font-family.display}",
-            "fontWeight": "{semantic.font-weight.display.bold}",
+            "fontWeight": "{semantic.font-weight.display.regular}",
             "lineHeight": "{semantic.line-height.display}",
             "fontSize": "{semantic.font-size.display-3.desktop}",
             "paragraphSpacing": "{semantic.paragraph-spacing.default}",
