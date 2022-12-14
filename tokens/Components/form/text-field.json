@@ -150,11 +150,11 @@
       "typography": {
         "text": {
           "value": {
-            "fontFamily": "{component.checkbox.font-family.text}",
-            "fontWeight": "{component.checkbox.font-weight.text}",
-            "lineHeight": "{component.checkbox.line-height.text}",
-            "fontSize": "{component.checkbox.font-size.text}",
-            "letterSpacing": "{component.checkbox.letter-spacing.text}",
+            "fontFamily": "{component.text-field.font-family.text}",
+            "fontWeight": "{component.text-field.font-weight.text}",
+            "lineHeight": "{component.text-field.line-height.text}",
+            "fontSize": "{component.text-field.font-size.text}",
+            "letterSpacing": "{component.text-field.letter-spacing.text}",
             "paragraphSpacing": "{semantic.paragraph-spacing.default}",
             "textDecoration": "{semantic.text-decoration.none}",
             "textCase": "{semantic.text-case.none}"

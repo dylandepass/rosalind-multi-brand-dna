@@ -249,7 +249,7 @@
           "type": "color"
         },
         "dark": {
-          "value": "{global.color.static.indigo.600}",
+          "value": "{global.color.static.indigo.700}",
           "type": "color"
         },
         "darker": {

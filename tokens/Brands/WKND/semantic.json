@@ -12,6 +12,14 @@
           "value": "{global.color.static.yellow.500}",
           "type": "color"
         },
+        "dark": {
+          "value": "{global.color.static.yellow.600}",
+          "type": "color"
+        },
+        "darker": {
+          "value": "{global.color.static.yellow.700}",
+          "type": "color"
+        },
         "secondary": {
           "value": "{global.color.static.black}",
           "type": "color"

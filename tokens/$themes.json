@@ -14,7 +14,8 @@
       "Components/form/form": "enabled",
       "light-theme": "disabled",
       "dark-theme": "source",
-      "Components/form/checkbox": "disabled"
+      "Components/form/checkbox": "disabled",
+      "Brands/WKND/button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -33,7 +34,8 @@
       "Components/form/form": "enabled",
       "light-theme": "source",
       "dark-theme": "disabled",
-      "Components/form/checkbox": "disabled"
+      "Components/form/checkbox": "disabled",
+      "Brands/WKND/button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,7 +54,8 @@
       "Components/form/form": "enabled",
       "light-theme": "source",
       "dark-theme": "disabled",
-      "Components/form/checkbox": "disabled"
+      "Components/form/checkbox": "disabled",
+      "Brands/WKND/button": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.primary.base": "S:d7082593a0070c54409160c382becba4e56332f7,",

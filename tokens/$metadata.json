@@ -11,6 +11,7 @@
     "Patterns/header",
     "Brands/Rosalind/dark-theme",
     "Brands/WKND/semantic",
-    "Brands/WKND/pattern"
+    "Brands/WKND/pattern",
+    "Brands/WKND/button"
   ]
 }

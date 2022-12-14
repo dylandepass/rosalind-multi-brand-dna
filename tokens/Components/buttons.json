@@ -1,6 +1,51 @@
 {
   "component": {
     "button": {
+      "font-size": {
+        "label": {
+          "value": "{global.font-size.md}",
+          "type": "fontSizes"
+        }
+      },
+      "font-family": {
+        "label": {
+          "value": "Nunito, sans-serif",
+          "type": "fontFamilies"
+        }
+      },
+      "line-height": {
+        "label": {
+          "value": "{semantic.line-height.body}",
+          "type": "lineHeights"
+        }
+      },
+      "font-weight": {
+        "label": {
+          "value": "{semantic.font-weight.normal}",
+          "type": "fontWeights"
+        }
+      },
+      "letter-spacing": {
+        "label": {
+          "value": "{semantic.letter-spacing.default}",
+          "type": "letterSpacing"
+        }
+      },
+      "typography": {
+        "label": {
+          "value": {
+            "fontFamily": "{component.button.font-family.label}",
+            "fontWeight": "{component.button.font-weight.label}",
+            "lineHeight": "{component.button.line-height.label}",
+            "fontSize": "{component.button.font-size.label}",
+            "letterSpacing": "{component.button.letter-spacing.label}",
+            "paragraphSpacing": "{semantic.paragraph-spacing.default}",
+            "textDecoration": "{semantic.text-decoration.none}",
+            "textCase": "{semantic.text-case.none}"
+          },
+          "type": "typography"
+        }
+      },
       "color": {
         "primary": {
           "default": {
