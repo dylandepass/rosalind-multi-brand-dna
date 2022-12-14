@@ -55,7 +55,7 @@
       "light-theme": "source",
       "dark-theme": "disabled",
       "Components/form/checkbox": "disabled",
-      "Brands/WKND/button": "disabled"
+      "Brands/WKND/button": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.primary.base": "S:d7082593a0070c54409160c382becba4e56332f7,",

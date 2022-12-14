@@ -39,6 +39,14 @@
         "base": {
           "value": "{global.color.static.black}",
           "type": "color"
+        },
+        "dark": {
+          "value": "{global.color.static.black}",
+          "type": "color"
+        },
+        "darker": {
+          "value": "{global.color.static.black}",
+          "type": "color"
         }
       },
       "footer": {
@@ -76,6 +84,12 @@
       "body": {
         "value": "Roboto",
         "type": "fontFamilies"
+      }
+    },
+    "radii": {
+      "default": {
+        "value": "{global.radii.0}",
+        "type": "borderRadius"
       }
     }
   }

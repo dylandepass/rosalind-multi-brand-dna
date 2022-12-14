@@ -202,7 +202,7 @@
               "type": "color"
             },
             "border-color": {
-              "value": "{semantic.color.primary.base}",
+              "value": "{semantic.color.transparent}",
               "type": "color"
             }
           },
@@ -216,7 +216,7 @@
               "type": "color"
             },
             "border-color": {
-              "value": "{semantic.color.primary.dark}",
+              "value": "{semantic.color.transparent}",
               "type": "color"
             }
           },
@@ -230,7 +230,7 @@
               "type": "color"
             },
             "border-color": {
-              "value": "{semantic.color.primary.darker}",
+              "value": "{semantic.color.transparent}",
               "type": "color"
             }
           },
@@ -254,7 +254,7 @@
               "type": "color"
             },
             "foreground-color": {
-              "value": "{semantic.color.foreground.on-disabled}",
+              "value": "{semantic.color.foreground.on-disabled-subtle}",
               "type": "color"
             },
             "border-color": {
