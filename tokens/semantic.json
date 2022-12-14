@@ -194,6 +194,48 @@
           "value": "{global.breakpoints.400}",
           "type": "sizing"
         }
+      },
+      "icon": {
+        "sm": {
+          "width": {
+            "value": "{global.size.200}",
+            "type": "sizing"
+          },
+          "height": {
+            "value": "{global.size.200}",
+            "type": "sizing"
+          }
+        },
+        "md": {
+          "width": {
+            "value": "{global.size.300}",
+            "type": "sizing"
+          },
+          "height": {
+            "value": "{global.size.300}",
+            "type": "sizing"
+          }
+        },
+        "lg": {
+          "width": {
+            "value": "{global.size.400}",
+            "type": "sizing"
+          },
+          "height": {
+            "value": "{global.size.400}",
+            "type": "sizing"
+          }
+        },
+        "xl": {
+          "width": {
+            "value": "{global.size.500}",
+            "type": "sizing"
+          },
+          "height": {
+            "value": "{global.size.500}",
+            "type": "sizing"
+          }
+        }
       }
     },
     "color": {
