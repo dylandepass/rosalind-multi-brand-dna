@@ -289,7 +289,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{global.color.static.gray.600}",
+          "value": "{theme.color.gray.300}",
           "type": "color"
         },
         "input": {
@@ -351,7 +351,7 @@
           "type": "color"
         },
         "on-disabled": {
-          "value": "{global.color.static.gray.500}",
+          "value": "{theme.color.gray.400}",
           "type": "color"
         },
         "on-disabled-subtle": {
@@ -463,7 +463,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{global.color.static.gray.600}",
+          "value": "{theme.color.gray.400}",
           "type": "color"
         }
       }

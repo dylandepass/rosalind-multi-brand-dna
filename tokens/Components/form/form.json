@@ -96,6 +96,12 @@
           "value": "{semantic.text-decoration.none}",
           "type": "textDecoration"
         }
+      },
+      "sizing": {
+        "input-min-width": {
+          "value": "{global.size.1200}",
+          "type": "sizing"
+        }
       }
     }
   }

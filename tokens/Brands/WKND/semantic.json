@@ -54,6 +54,12 @@
           "value": "{global.color.static.zinc.900}",
           "type": "color"
         }
+      },
+      "border": {
+        "focus": {
+          "value": "{semantic.color.secondary.base}",
+          "type": "color"
+        }
       }
     },
     "font-family": {
